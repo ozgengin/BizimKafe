@@ -21,7 +21,6 @@ namespace BizimKafe.UI
             InitializeComponent();
             VerileriYukle();
             MasalariOlustur();
-          
         }
 
         private void VerileriYukle()
